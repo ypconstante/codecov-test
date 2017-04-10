@@ -3,7 +3,7 @@ public class HueHue {
         System.out.println("hue hue br br");
     }
 
-    private void naoUsado() {
-
+    public void naoUsado() {
+        System.out.println("the name method is a lie");
     }
 }

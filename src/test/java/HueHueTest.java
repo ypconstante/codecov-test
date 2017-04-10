@@ -6,4 +6,9 @@ public class HueHueTest {
     public void mainTest() {
         HueHue.main(new String[]{});
     }
+
+    @Test
+    public void another() {
+        new HueHue().naoUsado();
+    }
 }
